@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markboenigk
-- 👀 I’m interested in aviation, data anallytics, and solving problems
+- 👀 I’m interested in aviation, data analytics, and solving problems
 - 🌱 I’m currently learning python, especially geocoding and setting up data pipelines
-- 💞️ I’m looking to collaborate on a data engineering project
+- 💞️ I’m looking to collaborate on a data engineering project --> If you have an idea for a collaboration prject, hit me up! 
 - 📫 How to reach me e-mail: mark@mboenigk.com or via Linkedin: https://www.linkedin.com/in/mark-boenigk/
 
 <!---
