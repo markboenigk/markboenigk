@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markboenigk
-- 👀 I’m interested in aviation, data analytics, and solving problems
+- 👀 I’m interested in aviation, data analytics, life sciences, and consulting
 - 🌱 I’m currently working on projects in aviation
 - 💞️ I’m looking to collaborate on a data engineering project --> If you have an idea for a collaboration project, hit me up! 
 - 📫 How to reach me: mark@mboenigk.com or via Linkedin: https://www.linkedin.com/in/mark-boenigk/
