@@ -7,7 +7,7 @@
 
 | Project     | Description | Collaborators |
 | :---        |    :----    |          ---: |
-|[Msc Business Anaytics Portfolio]|||
+|[Msc Business Anaytics Portfolio](https://github.com/markboenigk/Msc_Business_Analytics_Portfolio)|||
 
 
 <!---
