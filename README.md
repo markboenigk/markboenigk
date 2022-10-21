@@ -8,7 +8,7 @@
 
 | Project     | Description | Collaborators |
 | :---        |    :----    |          ---: |
-|[Msc Business Anaytics Portfolio](https://github.com/markboenigk/Msc_Business_Analytics_Portfolio)|Various of projects during the MSc in Business Analytics at Hult International Business SChool||
+|[Msc Business Anaytics Portfolio](https://github.com/markboenigk/Msc_Business_Analytics_Portfolio)|Various of projects during the MSc in Business Analytics at Hult International Business School||
 |[City Distance Calcualtion](https://github.com/markboenigk/Calculating-Distance-between-Cities)|This project calculates the distance bewteen two cities ||
 |Flightdata Dashboard|Project using Python, MySQL, and Apache Airflow to ingest flight data via API into a MySQL database and visualize it with Tableau||
 ||||
