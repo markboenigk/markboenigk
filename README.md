@@ -10,11 +10,11 @@ Outside of my work at Capital One im working on several projects around aviation
 
 | Project     | Description |
 | :---        |    :----    |
-|Telegram Workout Tracker ||
+|Telegram Workout Tracker |Telegram bot to track and measure workouts and progress. The bot is hosted on AWS with Lambdas and is utilizing the Telegram API </p> <b> Tech Stack:</b> Python, Telegram API, AWS Lambda, Dynamo DB, AWS Secret Manager| 
 |||
 |||
-|[Msc Business Anaytics Portfolio](https://github.com/markboenigk/Msc_Business_Analytics_Portfolio)|Various projects during the MSc in Business Analytics at Hult International Business School <li> ML Classification Project - Predict Customer Churn <li> Star Wars Text Adventure Game <li> Prisoners Dilemma Game|
-|[Ames Housing Machine Learning Model](https://github.com/markboenigk/Ames_Housing_ML)|Machine Learning project on the Ames, Iowa dataset of the House Prices – Advanced Regression Techniques Kaggle competition </p> <b> Tech Stack:</b> Python|
+|[Msc Business Anaytics Portfolio](https://github.com/markboenigk/Msc_Business_Analytics_Portfolio)|Various projects during the MSc in Business Analytics at Hult International Business School <li> ML Classification Project - Predict Customer Churn <li> Star Wars Text Adventure Game <li> Prisoners Dilemma Game </p> <b> Tech Stack:</b> Python (Pandas, Sci-kit learn)|
+|[Ames Housing Machine Learning Model](https://github.com/markboenigk/Ames_Housing_ML)|Machine Learning project on the Ames, Iowa dataset of the House Prices – Advanced Regression Techniques Kaggle competition </p> <b> Tech Stack:</b> Python (Pandas, Sci-kit learn) |
 
 
 
