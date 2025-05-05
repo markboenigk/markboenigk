@@ -4,7 +4,7 @@ I'm a Senior Data Analyst working at Capital One. I'm automating processes and i
 
 Outside of my work at Capital One im working on several projects around aviation, Formula 1 and AI/ML. Most of the time I'm utilizing AWS services like S3, Lambdas, EC2 or Dynamo DB to let my projects become reality. 
 
-- 📫 How to reach me: mark@mboenigk.com or via Linkedin: https://www.linkedin.com/in/mark-boenigk/
+- 📫 How to reach me: https://www.linkedin.com/in/mark-boenigk/
 
 ***
 
