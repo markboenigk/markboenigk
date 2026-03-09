@@ -19,6 +19,8 @@ Outside of my work at Capital One im working on several projects around aviation
 
 
 
+![Metrics](https://metrics.lecoq.io/markboenigk?template=repository&base=header,activity,community,repositories,metadata&config.timezone=America/New_York)
+
 <!---
 markboenigk/markboenigk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
